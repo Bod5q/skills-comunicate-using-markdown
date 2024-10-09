@@ -1,33 +1,11 @@
-# This is an `<h1>` header, which is the largest
+# Markdown syntax guide
 
-## This is an `<h2>` header
+## Headers
 
-###### This is an `<h6>` header, which is the smallest # This is an `<h1>` header, which is the largest
+# This is a Heading h1
+## This is a Heading h2
+###### This is a Heading h6
 
-## This is an `<h2>` header
 
-##### This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
 
-## This is an `<h2>` header
 
-#### This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-#### This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-### This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-# This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
